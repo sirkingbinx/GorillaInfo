@@ -1,6 +1,5 @@
 {
   "ObsidianMC": "Obsidian.lol",
-  "hgrehngio889584739_hugb": "Resurgence",
   "genesis": "ShibaGT Genesis",
   "elux": "Elux",
   "VioletFreeUser": "Violet Free",
