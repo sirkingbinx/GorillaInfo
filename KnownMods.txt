@@ -33,5 +33,8 @@
   "CustomMaterial": "Wrysers Custom Cosmetics",
   "cheese is gouda": "WhoIsThatMonke",
   "I like cheese": "awawe",
-  "GorillaNametags": "Gorilla Nametags"
+  "GorillaNametags": "Gorilla Nametags",
+  "GorillaTorsoEstimator": "Gorilla Torso Estimator",
+  "DeeTags": "Dee Tags",
+  "Boy Do I Love Information": "Boy Do I Love Information"
 }
