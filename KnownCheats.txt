@@ -10,4 +10,5 @@
   "ORBIT": "Orbit Menu (Weeb)",
   "Violet On Top": "Violet Menu",
   "Vivid": "Vivid Menu",
+  "ElixirMenu": "Elixir Menu"
 }
