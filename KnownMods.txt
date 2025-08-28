@@ -38,5 +38,6 @@
   "DeeTags": "Dee Tags",
   "Boy Do I Love Information": "Boy Do I Love Information",
   "NametagsPlusPlus": "Nametags++",
-  "WalkSimulator": "WalkSim ZlothY Fix"
+  "WalkSimulator": "WalkSim ZlothY Fix",
+  "kingbingus.oculusreportmenu": "OculusReportMenu"
 }
